@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Enkle kart verktøy</string>
+    <string name="tvInputTxt">Verdien du vil konvertere</string>
+    <string name="hintInput">Kart koordinater</string>
+    <string name="fmtDec">Desimal format</string>
+    <string name="fmtNw">NW format</string>
+    <string name="fmtNwd">NW-Desimal format</string>
+    <string name="fmtErr">Ukjent format</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Map tools</string>
+    <string name="tvInputTxt">Input value to be converted</string>
+    <string name="hintInput">Map Coordinates</string>
+    <string name="fmtDec">Decimal format</string>
+    <string name="fmtNw">NW format</string>
+    <string name="fmtNwd">NW-Decimal format</string>
+    <string name="fmtErr">Unknown format</string>
+</resources>
